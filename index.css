@@ -3,7 +3,7 @@ html {
 }
 
 h1 {
-  color:#000080;
+  color:#5B2C6F;
 }
 
 h2 {
@@ -12,7 +12,7 @@ h2 {
 }
 
 nav {
-  color: 	#CCCC00;
+  color: 	#BB8FCE;
 }
 table, th, td {
   border: 1px solid black;
@@ -24,12 +24,12 @@ h1, h3, h4, h5 {
   font-family: 'Oswald', serif;
     color:#000080;
 }
-.darkblue {
-    background-color: 	 #0000cd;
+.darkpurple {
+    background-color: 	 #76448A;
     color: #FFFFFF;
 }
-.lightblue {
-  background-color: #000080;
+.lightpurple {
+  background-color: #A569BD;
   color: #FFFFFF;
 }
 /* Add a black background color to the top navigation */
