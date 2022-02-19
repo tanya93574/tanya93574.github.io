@@ -3,7 +3,7 @@ html {
 }
 
 h1 {
-  color:#5B2C6F;
+  color: #5B2C6F;
 }
 
 h2 {
@@ -12,26 +12,30 @@ h2 {
 }
 
 nav {
-  color: 	#BB8FCE;
+  color: #BB8FCE;
 }
+
 table, th, td {
   border: 1px solid black;
   font-size: 20px;
   font-family: 'Oswald', serif;
-
 }
+
 h1, h3, h4, h5 {
   font-family: 'Oswald', serif;
-    color:#5B2C6F;
+  color: #5B2C6F;
 }
+
 .darkpurple {
-    background-color: 	 #76448A;
-    color: #FFFFFF;
+  background-color: #76448A;
+  color: #FFFFFF;
 }
+
 .lightpurple {
   background-color: #A569BD;
   color: #FFFFFF;
 }
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -40,7 +44,7 @@ h1, h3, h4, h5 {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float:left;
+  float: left;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -61,10 +65,11 @@ h1, h3, h4, h5 {
 }
 
 .align-right {
-  margin-left:3%;
-  margin-right:4%;
+  margin-left: 3%;
+  margin-right: 4%;
   text-align: justify;
 }
+
 table {
   padding: 3px;
 }
@@ -73,21 +78,23 @@ p {
   font-size: 20px;
   font-family: 'Oswald', serif;
 }
-.smallBlack {
-  color: 	#000000
-  }
-.smallRed {
-    color: 	#FF0000
-    }
 
-.profile-image{
-	max-height: 3%;
-    max-width: 30%;
-    float: right;
-    display: inline-flex;
-    flex-direction: row;
+.smallBlack {
+  color: #000000
 }
 
-.align-left{
-	display: inline-block;
+.smallRed {
+  color: #FF0000
+}
+
+.profile-image {
+  max-height: 3%;
+  max-width: 30%;
+  float: right;
+  display: inline-flex;
+  flex-direction: row;
+}
+
+.align-left {
+  display: inline-block;
 }
